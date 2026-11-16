@@ -1,0 +1,11 @@
+id,label,rolle,kategorie,typ
+N01,Domenika Mayer,Athletin (Ego),Ego,Ego
+N02,Christian Mayer,Mann / Trainer,Sport & Training,Person
+N03,ISS Berlin,Management (Wettkampf-Akquise),Management & Sponsoring,Organisation
+N04,LG Telis Finanz Regensburg,Verein,Sport & Training,Organisation
+N05,Mama und Papa,Kinderbetreuung,Privates Umfeld,Personengruppe
+N06,Physios,Physiotherapie,Medizin & Gesundheit,Personengruppe
+N07,Bekannte / Freunde,Trainingspartner (Laufeinheiten),Sport & Training,Personengruppe
+N08,Philipp Seipp,Trainer für Laufökonomie / Laufstil,Sport & Training,Person
+N09,Sportpsychologe,Mentale Betreuung,Medizin & Gesundheit,Person
+N10,Puma,Ausrüster & Sponsor (finanziell),Management & Sponsoring,Organisation

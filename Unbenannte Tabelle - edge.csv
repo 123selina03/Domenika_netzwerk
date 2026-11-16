@@ -1,0 +1,10 @@
+from,to,beziehung,funktion,gewicht
+N01,N02,Ehemann & Trainer,"Haupttraining, Partnerschaft",3
+N01,N03,Management,Vermittlung von Wettkämpfen/Läufen,2
+N01,N04,Vereinsmitgliedschaft,"Vereinsstruktur, Startrecht",2
+N01,N05,Eltern,Kinderbetreuung,3
+N01,N06,Medizinische Betreuung,"Physiotherapie, Regeneration",2
+N01,N07,Trainingspartner,Gemeinsame Laufeinheiten,2
+N01,N08,Spezialtrainer,Laufökonomie & Laufstil-Analyse,2
+N01,N09,Psychologische Betreuung,Sportpsychologie,2
+N01,N10,Sponsoring,Ausrüstung & finanzielle Unterstützung,2
